@@ -1,0 +1,16 @@
+.syntax[data-language='css'] pre{color:#f78c6c}
+.syntax[data-language='css'] .token.selector{color:#decb6b}
+.syntax[data-language='css'] .token.property{color:#80cbae}
+.syntax[data-language='css'] .token.punctuation{color:var(--synxC)}
+.syntax[data-language='css'] .token.function{color:#82b1ff}
+.syntax[data-language='html'] .token.tag,.syntax[data-language='html'] .token.punctuation{color:#ff5370}
+.syntax[data-language='html'] .token.attr-name{color:#FFCB6B}
+.syntax[data-language='html'] .token.attr-value,.syntax[data-language='html'] .token.attr-value .punctuation{color:#C3E88D}
+.syntax[data-language='html'] .token.attr-value .attr-equals{color:var(--synxC)}
+.syntax[data-language='html'] .token.comment{color:#546E7A}
+.syntax[data-language='javascript'] .token.string{color:#c3e88d}
+.syntax[data-language='javascript'] .token.keyword{color:#c792ea}
+.syntax[data-language='javascript'] .token.function{color:#82b1ff}
+.syntax[data-language='javascript'] .token.function-variable{color:#80cbc4}
+.syntax[data-language='javascript'] .token.regex{color:#f07178}
+.syntax[data-language='javascript'] .token.number{color:#f77669}
